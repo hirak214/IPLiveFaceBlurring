@@ -18,7 +18,7 @@ The Face Blurring App is a Python project that captures video from your webcam, 
 
 Clone the repository
 ```bash
-  git clone https://github.com/yourusername/face-blurring-app.git
+  git clone [https://github.com/yourusername/face-blurring-app.git](https://github.com/hirak214/IPLiveFaceBlurring.git)
 ```
 Change into the project directory:
 ```bash
